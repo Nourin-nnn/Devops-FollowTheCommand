@@ -1,4 +1,4 @@
-# Devops-tasks
+# Devops-task
 =======
 # Getting started
 
